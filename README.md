@@ -24,10 +24,10 @@ The application can create, read, update and delete data, for example: products,
 
 ## Dependencies
 
-The project was initiated by "npm init -y"
-express https://expressjs.com/en/starter/hello-world.html
-nodemon https://www.npmjs.com/package/nodemon 
-mongoose https://www.npmjs.com/package/mongoose
-dotenv https://www.npmjs.com/package/dotenv
-express-async-handler https://www.npmjs.com/package/express-async-handler
+1. The project was initiated by "npm init -y"
+2. express https://expressjs.com/en/starter/hello-world.html
+3. nodemon https://www.npmjs.com/package/nodemon 
+4. mongoose https://www.npmjs.com/package/mongoose
+5. dotenv https://www.npmjs.com/package/dotenv
+6. express-async-handler https://www.npmjs.com/package/express-async-handler
 
