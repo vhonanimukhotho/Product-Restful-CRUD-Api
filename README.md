@@ -17,7 +17,7 @@ The application can create, read, update and delete data, for example: products,
 5. Go to test page by http://localhost:3000/About
 6. Use API
     -> Get all products http://localhost:3000/api/products/
-    -> Gell a product http://localhost:3000/api/products/productID
+    -> Get a product http://localhost:3000/api/products/productID
     -> Save a product http://localhost:3000/api/products/add
     -> Update a product http://localhost:3000/api/products/productID
     -> Delete a product http://localhost:3000/api/products/productID
